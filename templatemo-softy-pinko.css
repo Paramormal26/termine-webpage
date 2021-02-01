@@ -1676,47 +1676,37 @@ preloader
 
 @-webkit-keyframes jumper {
     0% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+        background-image: url("right-para.png"), url("para.png");
+    }
+    25% {
+        background-image: url("right-dyta.png"), url("dyta.png");
     }
     50% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+        background-image: url("right-treta.png"), url("treta.png");
     }
-    50% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+    75% {
+        background-image: url("right-katerta.png"), url("katerta.png");
     }
     100% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+        background-image: url("right-rrethi.png"), url("rrethi.png");
     }
 }
 
 @-webkit-keyframes jumper2 {
     0% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+        background-image: url("left-para.png"), url("paraleft.png");
+    }
+    25% {
+        background-image: url("left-dyta.png"), url("dytaleft.png");
     }
     50% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+        background-image: url("left-treta.png"), url("tretaleft.png");
     }
-    50% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+    75% {
+        background-image: url("left-katerta.png"), url("katertaleft.png");
     }
     100% {
-        opacity: 1;
-        -webkit-transform: scale(1);
-        transform: scale(1);
+        background-image: url("left-rrethi.png"), url("rrethileft.png");
     }
 }
 
