@@ -1722,19 +1722,19 @@ preloader
 
 @keyframes jumper2 {
     0% {
-        background-image: url("paraleft.png"), url("left-para.png");
+        background-image: url("left-para.png"), url("paraleft.png");
     }
     25% {
-        background-image: url("dytaleft.png"), url("left-dyta.png");
+        background-image: url("left-dyta.png"), url("dytaleft.png");
     }
     50% {
-        background-image: url("tretaleft.png"), url("left-treta.png");
+        background-image: url("left-treta.png"), url("tretaleft.png");
     }
     75% {
-        background-image: url("katertaleft.png"), url("left-katerta.png");
+        background-image: url("left-katerta.png"), url("katertaleft.png");
     }
     100% {
-        background-image: url("rrethileft.png"), url("left-rrethi.png");
+        background-image: url("left-rrethi.png"), url("rrethileft.png");
     }
     /**
     
@@ -1779,19 +1779,19 @@ preloader
 
 @keyframes jumper {
     0% {
-        background-image: url("para.png"), url("right-para.png");
+        background-image: url("right-para.png"), url("para.png");
     }
     25% {
-        background-image: url("dyta.png"), url("right-dyta.png");
+        background-image: url("right-dyta.png"), url("dyta.png");
     }
     50% {
-        background-image: url("treta.png"), url("right-treta.png");
+        background-image: url("right-treta.png"), url("treta.png");
     }
     75% {
-        background-image: url("katerta.png"), url("right-katerta.png");
+        background-image: url("right-katerta.png"), url("katerta.png");
     }
     100% {
-        background-image: url("rrethi.png"), url("right-rrethi.png");
+        background-image: url("right-rrethi.png"), url("rrethi.png");
     }
     /**
     
