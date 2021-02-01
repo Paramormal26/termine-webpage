@@ -102,14 +102,14 @@
             });
         }
 
-        $("#preloader").stop().delay(1000).animate({
+        $("#preloader").stop().delay(2000).animate({
             marginLeft: '-=938px'
         }, 1000, function() {
             setTimeout(function() {
                 $("#preloader").css("visibility", "hidden").fadeOut();
             }, 1000);
         });
-        $("#preloader2").stop().delay(1000).animate({
+        $("#preloader2").stop().delay(2000).animate({
             marginLeft: '+=938px'
         }, 1000, function() {
             setTimeout(function() {
