@@ -1622,6 +1622,7 @@ preloader
 
 #preloader2 {
     margin-left: 50%;
+    background-image: linear-gradient( #99CA3B, #a759d1);
 }
 
 #preloader .jumper,
